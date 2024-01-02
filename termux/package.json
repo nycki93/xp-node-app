@@ -1,15 +1,12 @@
 {
-  "name": "xp-node-client-server",
+  "name": "termux",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "type": "module",
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "cmake-js": "^7.2.1"
-  }
+  "type": "module"
 }
