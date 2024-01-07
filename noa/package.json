@@ -1,0 +1,17 @@
+{
+  "name": "noa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "build": "node-on-android . -o app.apk -b 'C:\\Android\\android-sdk\\build-tools\\34.0.0'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-on-android": "^0.0.2"
+  },
+  "type": "module"
+}
